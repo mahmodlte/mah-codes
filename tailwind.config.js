@@ -11,6 +11,9 @@ module.exports = {
         OsWald: ["Oswald", "sans-serif"],
         lato: ["Lato", "sans-serif"],
       },
+      colors: {
+        carmine: "#D70040",
+      },
     },
   },
   plugins: [],
