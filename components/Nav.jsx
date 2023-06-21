@@ -1,7 +1,7 @@
 import Link from "next/link";
 const Nav = () => {
   return (
-    <nav className="flex justify-between">
+    <nav className=" flex antialiased justify-between">
       <div className="flex">
         <Link className="text-5xl font-OsWald dark:text-white" href="/">
           <h1 className="my-5">
@@ -12,25 +12,25 @@ const Nav = () => {
       </div>
       <div className="flex my-9">
         <Link
-          className=" mx-3 dark:text-teal-400 hover:border-b dark:border-teal-600 border-carmine "
+          className=" mx-3 dark:text-teal-400 hover:border-b hover:transition-all duration-500 hover:text-carmine dark:border-teal-600 border-carmine "
           href="#about"
         >
           <h2>About</h2>
         </Link>
         <Link
-          className=" mx-3 dark:text-teal-400 hover:border-b  dark:border-teal-600 border-carmine "
+          className=" mx-3 dark:text-teal-400 hover:border-b hover:transition-all duration-500 hover:text-carmine dark:border-teal-600 border-carmine "
           href="/"
         >
           <h2>Experiences</h2>
         </Link>
         <Link
-          className="mx-3 dark:text-teal-400 hover:border-b dark:border-teal-600 border-carmine "
+          className="mx-3 dark:text-teal-400 hover:border-b hover:transition-all duration-500 hover:text-carmine dark:border-teal-600 border-carmine "
           href="/"
         >
           <h2>Skills</h2>
         </Link>
         <Link
-          className="mx-3  dark:text-teal-400 hover:border-b dark:border-teal-600 border-carmine "
+          className="mx-3  dark:text-teal-400 hover:border-b hover:transition-all duration-500 hover:text-carmine dark:border-teal-600 border-carmine "
           href="/"
         >
           <h2>Contact</h2>
