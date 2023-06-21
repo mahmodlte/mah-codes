@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="font-lato flex flex-col sm:flex-row justify-around"
+      className="antialiased font-lato flex flex-col sm:flex-row justify-around"
     >
       <div>
         <h1 className="dark:text-white text-3xl ">
@@ -12,7 +12,7 @@ const About = () => {
         </h1>
         <h2 className="text-2xl my-3 text-teal-500 w-80">
           <span className="text-red-500">{`{`}</span>A Front-End web developer,
-          Tech enthusiast, and photographer at my free time,
+          Tech enthusiast, and photographer at my free time.
           <span className="text-red-500">{`}`}</span>
         </h2>
       </div>
