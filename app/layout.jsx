@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="main dark:bg-slate-900">
+        <div className="main dark:bg-slate-900 transition-all duration-500">
           <div className="gradient"></div>
         </div>
         <main className="app">
