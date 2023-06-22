@@ -24,7 +24,7 @@ const Experiences = () => {
             sized projects on building the front-end of websites and fixing bugs
             on these websites
           </p>
-          <div className="sm:flex hidden justify-evenly w-2/3 flex-wrap">
+          <div className="sm:flex hidden  w-2/3 flex-wrap">
             <Badge title="React" />
             <Badge title="JavaScript" />
             <Badge title="HTML" />
