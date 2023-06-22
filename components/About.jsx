@@ -18,10 +18,10 @@ const About = () => {
       </div>
       <div className=" sm:w-96 dark:text-white text-base">
         <p className="my-3">
-          I grow up in a small village in Mosul, Iraq and from childhood, I was
-          immersed by technology. my father got me my first computer at 2004.
-          back then I was only playing games and thinking about how these games
-          are made.
+          growing up in a small village in Mosul, Iraq, and from childhood, I
+          was immersed by technology. my father got me my first computer in
+          2004. back then I was only playing games and thinking about how these
+          games are made.
         </p>
         <p className="my-3">
           when I grow up I started questioning and researching on how games are
@@ -30,13 +30,13 @@ const About = () => {
         </p>
 
         <p className="my-3">
-          and as I had started learning. a war has started in my city, a war
-          that is considered one of the toughest wars in modern history. during
-          the war, I started to read books on Python and C++ tried to learn but
+          and as I started learning. a war has started in my city, a war that is
+          considered one of the most brutal wars in modern history. during the
+          war, I started to read books on Python and C++ and tried to learn but
           there was no chance of learning there was no hope for me of getting
-          out. In the end the war has ended, and from that time I have started
+          out. In the end, the war ended, and from that time I have started
           learning coding through an organization called Re:Coded {`it's`} an
-          orginaztion that teachs youth in confliect affected areas how to code
+          organization that teaches youth in conflict-affected areas how to code
           and get into the digital economy.
         </p>
       </div>
