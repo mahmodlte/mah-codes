@@ -42,7 +42,7 @@ const Nav = () => {
         </Link>
       </div>
       <div className=" mr-2 my-3 h-[75px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-carmine to-transparent opacity0 dark:opacity-100 dark:via-teal-500">
-        <div className="dark:text-white cursor-pointer mx-3 my-5">
+        <div className="dark:text-white cursor-pointer dark:hover:text-teal-400 hover:text-carmine mx-3 my-5">
           {colorTheme === "light" ? (
             <svg
               onClick={() => setTheme("light")}
