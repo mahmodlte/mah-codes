@@ -12,7 +12,11 @@ const Nav = () => {
         <div className="flex">
           <Link className="text-5xl font-OsWald dark:text-white" href="/">
             <h1 className="my-5">
-              M<span className="text-5xl text-teal-400">.</span>M
+              M
+              <span className="text-5xl  text-carmine dark:text-teal-400">
+                .
+              </span>
+              M
             </h1>
           </Link>
           <div className=" mx-3 my-3 h-[75px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-carmine to-transparent opacity0 dark:opacity-100 dark:via-teal-500"></div>
@@ -87,7 +91,10 @@ const Nav = () => {
           <Link className="text-5xl font-OsWald dark:text-white" href="/">
             <h1 className="my-5">
               Mahmoud
-              <span className="text-5xl text-teal-400">.</span>Mansour
+              <span className="text-5xl text-carmine  dark:text-teal-400">
+                .
+              </span>
+              Mansour
             </h1>
           </Link>
           <div className=" mx-3 my-3 h-[75px] min-h-[1em] w-px self-stretch bg-gradient-to-tr from-transparent via-carmine to-transparent opacity0 dark:opacity-100 dark:via-teal-500"></div>
