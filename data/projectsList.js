@@ -39,8 +39,9 @@ const projects = [
   {
     id: 5,
     name: "Ai Dev Prompts",
-    stack: ["React", "NextJs", "Tailwind"],
+    stack: ["React", "NextJs", "Tailwind", "MongoDb"],
     github: "https://github.com/mahmodlte/gpt-prompts",
+    demo: "https://dev-prompts.vercel.app/",
     description:
       "app for sharing your AI prompts as developer with other developers",
   },
