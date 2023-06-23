@@ -15,7 +15,7 @@ import {
 } from "react-icons/tb";
 const Skills = () => {
   return (
-    <section className="my-14 antialiased">
+    <section id="skills" className="my-14 antialiased">
       <h1 className="text-center text-5xl dark:text-white my-16 font-OsWald">
         Skills
       </h1>
