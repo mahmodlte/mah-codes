@@ -1,7 +1,7 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 const Contact = () => {
   return (
-    <section className="antialiased dark:text-white">
+    <section id="contact" className="antialiased dark:text-white">
       <h1 className="text-center text-5xl dark:text-white my-16 font-OsWald">
         Contact
       </h1>
