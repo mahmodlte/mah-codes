@@ -40,7 +40,7 @@ const Skills = () => {
           <FaReact fontSize={45} className="text-teal-400" /> React
         </div>
         <div className="dark:text-white flex justify-center items-center flex-col">
-          <TbBrandNextjs fontSize={45} className="text-teal-400" /> Next Js
+          <TbBrandNextjs fontSize={45} className="text-teal-400" /> NextJs
         </div>{" "}
         <div className="dark:text-white flex justify-center items-center flex-col">
           <FaNodeJs fontSize={45} className="text-teal-400" /> NodeJs
