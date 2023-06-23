@@ -12,14 +12,14 @@ const Contact = () => {
         <a
           href="https://github.com/mahmodlte"
           target="_blank"
-          className="mx-2 hover:text-carmine"
+          className="mx-2 hover:dark:text-teal-400 hover:text-carmine"
         >
           <FaGithub fontSize={40} />
         </a>
         <a
           href="https://www.linkedin.com/in/mahmoodma/"
           target="_blank"
-          className="mx-2 hover:text-carmine"
+          className="mx-2 hover:dark:text-teal-400 hover:text-carmine"
         >
           <FaLinkedin fontSize={40} />
         </a>
