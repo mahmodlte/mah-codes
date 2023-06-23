@@ -11,7 +11,7 @@ const Projects = () => {
           return (
             <div
               key={project.id}
-              className="my-9 mx-4 h-auto max-w-[450px] w-full over:backdrop-blur-xl hover:bg-teal-400 hover:bg-clip-padding hover:backdrop-filter hover:bg-opacity-20 bg-white  rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-20 border dark:border-teal-500"
+              className="my-9 mx-4 h-auto max-w-[450px] w-full over:backdrop-blur-xl hover:bg-carmine hover:dark:bg-teal-400 hover:dark:bg-clip-padding hover:backdrop-filter hover:dark:bg-opacity-20 hover:bg-clip-padding hover:bg-opacity-20 bg-white  rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-20 border dark:border-teal-500"
             >
               <div className="m-7">
                 <h3 className="text-3xl text-center dark:text-white font-lato ">
@@ -25,14 +25,14 @@ const Projects = () => {
                   <a
                     href={project.github}
                     target="_blank"
-                    className="text-teal-400 hover:cursor-pointer hover:underline text-lg "
+                    className="dark:text-teal-400 text-carmine hover:cursor-pointer hover:underline text-lg "
                   >
                     GitHub
                   </a>
                   <a
                     href={project.demo}
                     target="_blank"
-                    className="text-teal-400 hover:cursor-pointer hover:underline text-lg "
+                    className="dark:text-teal-400 text-carmine  hover:cursor-pointer hover:underline text-lg "
                   >
                     Demo
                   </a>
