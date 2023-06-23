@@ -2,7 +2,7 @@ import projects from "@/data/projectsList";
 import Badge from "./Badge";
 const Projects = () => {
   return (
-    <section>
+    <section id="projects" className="antialiased">
       <h1 className="text-center text-5xl dark:text-white my-16 font-OsWald">
         Projects
       </h1>
