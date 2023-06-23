@@ -18,26 +18,22 @@ const About = () => {
       </div>
       <div className=" sm:w-96 dark:text-white text-base">
         <p className="my-3">
-          growing up in a small village in Mosul, Iraq, and from childhood, I
-          was immersed by technology. my father got me my first computer in
-          2004. back then I was only playing games and thinking about how these
-          games are made.
+          Born and raised in a small village in Mosul, Iraq, I was fascinated by
+          technology from a young age. My father got me my first computer when I
+          was 6. It opened up a whole new world for me. I was curious about how
+          the video games I was playing were made. Later I found out that video
+          games were made with lines of code, so I decided to learn computer
+          programming on my own.
         </p>
         <p className="my-3">
-          when I grow up I started questioning and researching on how games are
-          made. I found out that programming is one of the main pillars of game
-          development. so I decided to learn.
-        </p>
-
-        <p className="my-3">
-          and as I started learning. a war has started in my city, a war that is
-          considered one of the most brutal wars in modern history. during the
-          war, I started to read books on Python and C++ and tried to learn but
-          there was no chance of learning there was no hope for me of getting
-          out. In the end, the war ended, and from that time I have started
-          learning coding through an organization called Re:Coded {`it's`} an
-          organization that teaches youth in conflict-affected areas how to code
-          and get into the digital economy.
+          As I started learning, war started in my city and change my life. I
+          tried to continue my self-education by reading on Python and C++, but
+          there was little hope for an education during conflict. After the war
+          ended, I started a coding boocamp with an international organization
+          called Re:Coded, where I found a community of technologists and learn
+          the skills I needed to become a developer. Today, I leverage my skills
+          and life experience to build products for local and international
+          clients.
         </p>
       </div>
     </section>
