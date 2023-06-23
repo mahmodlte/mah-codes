@@ -43,6 +43,9 @@ const Skills = () => {
           <TbBrandNextjs fontSize={45} className="text-teal-400" /> Next Js
         </div>{" "}
         <div className="dark:text-white flex justify-center items-center flex-col">
+          <FaNodeJs fontSize={45} className="text-teal-400" /> NodeJs
+        </div>
+        <div className="dark:text-white flex justify-center items-center flex-col">
           <TbBrandRedux fontSize={45} className="text-teal-400" /> Redux
         </div>{" "}
         <div className="dark:text-white flex justify-center items-center flex-col">
