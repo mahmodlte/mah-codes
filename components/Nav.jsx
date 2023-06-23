@@ -4,7 +4,7 @@ import useDarkMode from "@/hooks/useDarkMode";
 import { useState } from "react";
 const Nav = () => {
   const [colorTheme, setTheme] = useDarkMode();
-  const [openMobileMenu, setOpenMobileMenu] = useState(true);
+  const [openMobileMenu, setOpenMobileMenu] = useState(false);
 
   return (
     <>
