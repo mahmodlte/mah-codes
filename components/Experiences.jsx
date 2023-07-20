@@ -62,7 +62,7 @@ const Experiences = () => {
       </div>
       <a
         className="dark:text-teal-400 text-lg text-carmine hover:border-b hover:border-carmine"
-        href="/assets/Resume.pdf"
+        href="/assets/Mahmoud-Mansour.pdf"
         download
       >
         Download Résumé
